@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/front-pass-manager/static/css/main.15e5dae1.css",
+    "main.js": "/front-pass-manager/static/js/main.d33c7523.js",
+    "index.html": "/front-pass-manager/index.html",
+    "main.15e5dae1.css.map": "/front-pass-manager/static/css/main.15e5dae1.css.map",
+    "main.d33c7523.js.map": "/front-pass-manager/static/js/main.d33c7523.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15e5dae1.css",
+    "static/js/main.d33c7523.js"
+  ]
+}
