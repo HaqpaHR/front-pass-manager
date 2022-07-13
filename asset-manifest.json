@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/front-pass-manager/static/css/main.15e5dae1.css",
-    "main.js": "/front-pass-manager/static/js/main.e9473603.js",
-    "index.html": "/front-pass-manager/index.html",
-    "main.15e5dae1.css.map": "/front-pass-manager/static/css/main.15e5dae1.css.map",
-    "main.e9473603.js.map": "/front-pass-manager/static/js/main.e9473603.js.map"
+    "main.css": "/static/css/main.15e5dae1.css",
+    "main.js": "/static/js/main.6af52d60.js",
+    "index.html": "/index.html",
+    "main.15e5dae1.css.map": "/static/css/main.15e5dae1.css.map",
+    "main.6af52d60.js.map": "/static/js/main.6af52d60.js.map"
   },
   "entrypoints": [
     "static/css/main.15e5dae1.css",
-    "static/js/main.e9473603.js"
+    "static/js/main.6af52d60.js"
   ]
 }
